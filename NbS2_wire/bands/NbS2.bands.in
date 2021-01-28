@@ -1,0 +1,6 @@
+&BANDS
+outdir='./tmp',
+prefix='NbS2',
+spin_component=2,
+filband='NbS2_down',
+/
