@@ -1,0 +1,5 @@
+&projwfc
+outdir='./tmp',
+prefix='NbS2',
+filpdos='NbS2.pdos',
+/
